@@ -1,0 +1,7 @@
+name: ShriekersWarning
+version: '${project.version}'
+main: nautilusmc.shriekerswarning.ShriekersWarning
+api-version: 1.19
+authors: [ Kynoq ]
+description: Get informed when you place a Shriekers
+website: https://nautilusmc.com
